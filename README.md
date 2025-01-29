@@ -86,3 +86,6 @@ MIT License - See [LICENSE.md](LICENSE.md) for details
 - Dessa Research Team
 - FaceForensics++ Dataset
 - Open-source AI Community
+
+  ![image](https://github.com/user-attachments/assets/598e0eb4-f507-4dcd-a351-d5593e0cb936)
+
